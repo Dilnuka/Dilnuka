@@ -54,10 +54,10 @@ I’m deeply interested in how **AI and analytics** can transform real-world pro
 <div align="center">
 
   <!-- Overall Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilnukaLiyanage&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilnuka&theme=radical" height="180em" />
 
   <!-- Languages Used -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilnukaLiyanage&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilnuka&theme=radical" height="180em" />
 
 </div>
 
