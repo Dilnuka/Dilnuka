@@ -33,6 +33,7 @@ I’m deeply interested in how **AI and analytics** can transform real-world pro
 ---
 
 ## 🛠 Skills & Tools  
+
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
@@ -73,7 +74,7 @@ I’m deeply interested in how **AI and analytics** can transform real-world pro
 
 <div align="center">
 
-  <!-- Metrics (Extra stats like PRs, issues, stars, etc.) -->
+  <!-- Extra Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilnukaLiyanage&theme=radical" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilnukaLiyanage&theme=radical" height="180em" />
 
