@@ -64,10 +64,10 @@ I’m deeply interested in how **AI and analytics** can transform real-world pro
 <div align="center">
 
   <!-- Repos Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilnukaLiyanage&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilnuka&theme=radical" height="180em" />
 
   <!-- Commit Activity -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilnukaLiyanage&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilnuka&theme=radical" height="180em" />
 
 </div>
 
