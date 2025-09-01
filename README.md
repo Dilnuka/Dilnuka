@@ -49,8 +49,35 @@ I’m deeply interested in how **AI and analytics** can transform real-world pro
 ---
 
 ## 📊 GitHub Stats  
-![Dilnuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DilnukaLiyanage&show_icons=true&theme=radical&hide_border=true" height="180em" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilnukaLiyanage&layout=compact&theme=radical&hide_border=true" height="180em" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=DilnukaLiyanage&theme=radical&hide_border=true" height="180em" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Metrics (Extra stats like PRs, issues, stars, etc.) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilnukaLiyanage&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilnukaLiyanage&theme=radical" height="180em" />
+
+</div>
 
 ---
 
